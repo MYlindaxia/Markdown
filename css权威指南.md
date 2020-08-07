@@ -937,4 +937,86 @@ background-clip用于控制背景延伸到何处
 背景定位用background-position属性来设置
 background-origin
 background-repeat背景重复方式（或者不重复）
-背景粘附用background-attachment
+背景粘附用background-attachment ，这样图片就不会随着屏幕移动而移动了，它就会一直占据网页一处地方，常用的属性有fixed(固定),local(不固定),scroll(默认值)
+background-clip用于设置背景的背景，众所周知背景会一直延申到padding，而background-clip就可以设置背景的延申范围，常见的属性有border-box，padding-box，content-box，text  
+background-postion适用于块级元素和置换元素，它有很多属性top，left，right，center。这些属性通常都是两两相互出现，若只出现一个，则另一个默认为center。它还可以设置百分比，具体的单位。还能是负值。通过负值我们可以将图像的某一部分拉出元素的背景区外，这点可以用于精灵图。  
+**改变的偏移量始终基于左上角**  
+background-position还有一种语法格式 *background-postion: left 30px bottom 12px;* 这样偏移量就不是从默认的左上角开始算了  
+background-origin用来设置图像的位置以声明边界为基准，和background-clip很像！ background-clip能改变背景的绘制区域，而background-origin确定源图像的位置
+background-repeat用于设置背景的重复方式，常见的属性有repeat-x,repeat-y,no-repeat,space。space用于均匀排列图像
+background-size用于控制背景图片的尺寸
+
+## background
+我们可以将以上所学的内容全部用在一个css中，这些顺序没有什么严格的要求，不过有三个限制规则
+1. background-size的值必须紧跟在background-position后面，而且两者要以一条斜线(/)隔开
+2. 值的常用规则仍然适用，即横向值在前，纵向值在后
+3. 如果同时为background-origin和background-clip提供值，第一个分配给background-origin，第二个分配给background-clip
+
+**background可以同时设置多个背景**
+```css
+div{
+    background: url(./images/btn-go.png),url(./images/hw.png),url(./images/ios-down.png);
+    background-repeat: no-repeat,no-repeat,repeat-x;
+    background-position: top right,left center,50% 100%;
+}
+```
+**这里唯一的限制是background-color不能指定多个值，因为它们都是在同一层中，背景颜色会被覆盖**
+
+## 渐变
+渐变是指一个颜色到另一个颜色的平滑度过  
+**渐变是图像**
+渐变最基本语法：
+```css
+background: linear-gradient(white,black);
+```
+这里渐变从上到下从白色变成黑色，因为渐变的默认方向为to bottom，如果想要指定方向，就要用下面的语法
+```css
+background: linear-gradient(to right,white,black);
+```
+当然！没有人说只能设置两个颜色，事实上你可以设置n多颜色
+```css
+background: linear-gradient(90deg,white,black,white,black);
+ //deg单位度 
+```
+```css
+background: linear-gradient(90deg,red,orange 200px,yellow 400px,green 600px,blue 800px,indigo 1000px,violet 1200px);
+//彩虹效果，red从0px开始，orange从200px开始，yellow从400px开始，green从600px开始，blue从800px开始，indigo从1000px开始，violet从1200px开始
+//也可以设置为负数，这时色标就从屏幕外开始计算
+background: linear-gradient(90deg,red -200px,orange 200px,yellow 400px,green 600px,blue 800px,indigo 1000px,violet 1200px);
+```
+急停效果：
+```css
+background: linear-gradient(90deg,red 0%,orange,yellow,green 50%,blue 50%,indigo,violet);  
+```
+中色点(有点不好说，举个例子吧）:
+```css
+.box1{
+    .ck();
+    background: linear-gradient(to right,white 25%,black 75%);
+}
+.box2{
+    .ck();
+    background: linear-gradient(to right,white 25%,33%,black 75%);
+}
+.box3{
+    .ck();
+    background: linear-gradient(to right,white 25%,67%,black 75%);
+}
+.box4{
+    .ck();
+    background: linear-gradient(to right,white 25%,25%,black 75%);
+}
+.box5{
+    .ck();
+    background: linear-gradient(to right,white 25%,75%,black 75%);
+}
+```
+![enter description here](./images/TIM截图20200707193549.png)
+
+## 径向渐变
+```css
+//椭圆形状
+background: radial-gradient(50px 100px,white,black);
+//圆形
+background: radial-gradient(100px,white,black);
+```
