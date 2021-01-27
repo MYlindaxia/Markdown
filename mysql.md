@@ -240,12 +240,11 @@ ORDER BY
 
 ```sql
 SELECT
-	vend_name,
-	prod_name,
-	prod_price 
+	tb_student.s_num,
+	grade 
 FROM
-	vendors
-	INNER JOIN products ON vendors.vend_id = products.vend_id;
+	tb_student
+	INNER JOIN tb_sc ON tb_student.s_num = tb_sc.s_num;
 ```
 
 **我们还可以连接多个表,但是注意,表连接的越多性能越低,所以要尽最大可能少连接表**
@@ -381,9 +380,24 @@ select * from tb_student;
 2. 列名和他们的新值
 3. 确定要更新的行和过滤条件
 
+```sql
+UPDATE tb_student 
+SET s_name = "lindaxia" 
+WHERE
+	s_num = 111;
+```
+
 **在使用UPDATE中如果有错误发生则之前的修改会被回滚到最初状态,如果你想即使发生错误,也继续更行则可以使用UPDATE IGNORE**
 
 **如果想从表中删除所有的行不要使用DELETE,可以使用TRUNCATE DELETE语句,它可以完成相同的工作,但速度快得多**
+
+```sql
+DELETE 
+FROM
+	tb_student 
+WHERE
+	s_num = 111;
+```
 
 **小心使用UPDATE和DELETE,因为mysql没有撤回按钮**
 
@@ -421,6 +435,12 @@ alter table tb_student drop column name;tb_student表中删除name列
 
 **其实alter table还有一种常见的用处,那就是定义外键**
 
+```sql
+    ALTER TABLE tb_sc ADD FOREIGN KEY ( s_num ) REFERENCES tb_student ( s_num );
+
+-- alter table 从表 add[constraint] [外键名称] foreign key （从表外键在字段名）references 主表（主表的主键）;
+```
+
 **删除表(而不是表里的内容,可以使用drop table**
 
 **可以使用rename table来重命名一张表**
@@ -451,7 +471,7 @@ rename table tb_student to student;
     6. 视图不能索引,也不能有关联的触发器或默认值
     7. 视图可以和表一起使用,列入编写一条联结表和视图的SELECT语句
 
-**通常使用select view来创建视图**
+**通常使用create view来创建视图**
 
 ![enter description here](./images/1597229335778.png)
 
@@ -590,7 +610,7 @@ revoke select on xscj.* from lindaxia; -- 这条操作必须存在,不然就会�
 **如果我们忘记了之前赋予用户的命令了怎么办?没关系,我们可以通过show grants来查看**
 
 ```sql
-show grants for lindaxia;
+show grants for lindaxia;                   
 ```
 
 **我们可以通过set password来更改密码(在不指定用户名时默认修改当前用户的密码)**

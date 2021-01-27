@@ -1,0 +1,501 @@
+名词:
+1. accident 事故,意外的事
+2. address 地址,通讯处
+3. afternoon 下午
+4. air 空气
+5. all 全部 全体人员
+6. animal 动物
+7. answer 答案
+8. apple 苹果
+9. arm 胳臂
+10. art 美术
+11. aunt 伯母
+12. autumn 秋天 秋季
+13. back 背 背后
+14. bag 书包 袋子
+15. ball 球
+16. banana 香蕉
+17. basket 篮子
+18. basketball 篮球
+19. bed 床
+20. bedroom 卧室
+21. bell 钟 铃
+22. best 最好的人或物
+23. bike 自行车
+24. bill 账单 清单
+25. bird 鸟
+26. birthday 生日
+27. bit 一点 一些
+28. black 黑色
+29. blackboard 黑板
+30. blue 蓝色
+31. boat 小船
+32. body 身体 躯体
+33. book 书 本子
+34. bookshop 书店
+35. bottle 瓶子
+36. box 箱子
+37. boy 男孩
+38. bread 面包
+39. breakfast 早餐
+40. bridge 桥
+41. brother 兄弟
+42. brown 棕色 褐色
+43. brush 刷子
+44. building 建筑物 房屋
+45. business 商业 生意
+46. bus 公共汽车
+47. cake 蛋糕
+48. call 电话
+49. car 汽车
+50. card 小卡片 名片
+51. care 小心 照料
+52. cat 猫
+53. center 中心 中央
+54. chair 椅子
+55. change 变化 零钱
+56. child 孩子 儿童
+57. Christmas 圣诞节
+58. cinema 电影
+59. city 城市
+60. class 班 课
+61. classmate 同班同学
+62. classroom 教室
+63. clock 钟
+64. clothes 衣服
+65. coat 上衣 外套
+66. cold 寒冷 感冒
+67. colour 颜色
+68. comrade 同志
+69. computer 电脑
+70. cook 厨师 炊事员
+71. copy （书 / 报等的）一本 / 份/ 册……
+72. corner 角落 拐角
+73. cotton 棉花
+74. country 国家 农村
+75. course 过程 经过
+76. cover 盖子 罩
+77. cow 奶牛 母牛
+78. cross 十字形 交叉
+79. cry 叫喊 哭声
+80. cup 杯 杯子
+81. dad 爸爸
+82. dance 跳舞
+83. dark 黑暗
+84. data 日期
+85. daughter 女儿
+86. day 天
+87. desk 书桌
+88. dictionary 字典 词典
+89. dinner 正餐 晚餐
+90. doctor 医生
+91. dog 狗
+92. dollar 元
+93. door 门
+94. dress 服装 女装
+95. drink 饮料 喝酒
+96. driver 司机 驾驶员
+97. duck 鸭子
+98. dumpling 饺子
+99. ear 耳朵
+100. earth 地球
+101. east 东 东方
+102. egg 蛋
+103. end 末尾 终点
+104. enough 足够 充足
+105. evening 晚上 傍晚
+106. exam 考试 测试
+107. excuse 借口 测试
+108. exercise 做操 练习
+109. eye 眼睛
+110. face 脸 面孔
+111. factory 工厂
+112. family 家庭
+113. fan 爱好者 迷
+114. farm 农场 村庄
+115. farmer 农民
+116. father 父亲
+117. favourite 特别喜爱的人或物
+118. field 田地
+119. film 电影 影片
+120. fire 火 火灾
+121. first 开始
+122. fish 鱼
+123. floor 地板
+124. flower 花
+125. food 食物
+126. foot 脚
+127. football 足球
+128. foreigner 外国人
+129. friend 朋友
+130. fridge 点冰箱
+131. front 前面
+132. fruit 水果
+133. fun 有趣的事
+134. future 将来 未来
+135. game 游戏 比赛
+136. garden 花园
+137. girl 女孩
+138. glass 玻璃
+139. grade 等级
+140. grandfather 祖父
+141. grandpa 爷爷
+142. grandmother 祖母
+143. grandma 奶奶
+144. grass 草
+145. green 绿色
+146. ground 地面
+147. group 小组
+148. hair 头发
+149. half 一半
+150. hand 手
+151. head 头
+152. heart 心脏
+153. help 帮助
+154. hill 小山
+155. history 历史
+156. hole 洞
+157. holiday 节日
+158. home 家
+159. homework 家庭作业
+160. hope 希望
+161. horse 马
+162. hospital 医院
+163. hotel 旅馆
+164. hour 小时
+165. house 房子
+166. hurry 赶快
+167. husband 丈夫
+168. ice 冰
+169. idea 主意
+170. interest 兴趣
+171. jacket 外套
+172. key 钥匙
+173. kilometer 千米
+174. kind 种类
+175. knife 小刀
+176. lady 女士
+177. lake 湖水
+178. land 陆地
+179. language 语言
+180. last 最后
+181. laugh 笑
+182. league 联盟
+183. left 左边
+184. leg 腿
+185. lesson 课程
+186. letter 字母
+187. library 图书馆
+188. life 生命
+189. light 光
+190. line 线
+191. list 清单
+192. little 一点
+193. lot 很多
+194. love 爱
+195. lunch 午饭
+196. machine 机器
+197. madam 女士
+198. man 男士
+199. map 地图
+200. market 市场
+201. match 比赛
+202. maths 数学
+203. matter 问题
+204. meal 一餐
+205. meat 肉
+206. medicine 药
+207. meeting 聚会
+208. member 会员
+209. metre 米
+210. middle 中间
+211. milk 牛奶
+212. mind 思想
+213. minute 分钟
+214. miss 小姐
+215. mistake 错误
+216. moment 一会
+217. money 钱
+218. monkey 猴子
+219. month 月
+220. moon 月亮
+221. morning 早上
+222. most 大部分
+223. mother 母亲
+224. mountain 山
+225. mouth 嘴
+226. Mr 先生
+227. Mrs 夫人
+228. much 许多
+229. museum 博物馆
+230. music 音乐
+231. name 名字
+232. need 需要
+233. news 新闻
+234. newspaper 报纸
+235. night 夜晚
+236. nobody 没有人
+237. noise 响声
+238. noon 中午
+239. north 北方
+240. nose 鼻子
+241. number 数字
+242. nurse 护士
+243. o‘clock ..点钟
+244. office 办公室
+245. once 一次
+246. orange 橘子
+247. page 页
+248. pair 一对
+249. paper 纸
+250. pardon 原谅
+251. parent 父母
+252. park 公园
+253. part 部分
+254. party 聚会
+255. past 过去
+256. pay 工资
+257. pear 梨
+258. pen 钢笔
+259. pencil 铅笔
+260. people 人们
+261. photo 照片
+262. picnic 野餐
+263. picture 照片
+264. piece 一块
+265. pioneer 先锋
+266. place 地方
+267. plane 飞机
+268. plant 植物
+269. plate 盘子
+270. play 玩耍
+271. police 警察
+272. post 邮寄
+273. potato 土豆
+274. present 礼物
+275. problem 问题
+276. programme 节目
+277. pupil 学生
+278. push 推
+279. quarter 一刻钟
+280. question 问题
+281. race 赛跑
+282. radio 收音机
+283. rain 雨
+284. red 红色
+285. report 报告
+286. rest 休息
+287. rice 大米
+288. right 右边
+289. ring 打电话
+290. river 江河
+291. road 道路
+292. room 房间
+293. school 学校
+294. sea 海
+295. season 季节
+296. seat 座位
+297. second 秒
+298. set 设备
+299. sheep 羊
+300. ship 船
+301. shirt 衬衫
+302. shoe 鞋
+303. shop 商店
+304. shout 大喊
+305. side 边
+306. sir 先生
+307. sister 姐妹
+308. size 大小
+309. skirt 短裙
+310. sky 天空
+311. sleep 睡觉
+312. smell 气味
+313. smile 微笑
+314. show 雪
+315. soldier 士兵
+316. son 儿子
+317. song 唱歌
+318. sound 声音
+319. south 南方
+320. sport 运动
+321. spring 春天
+322. stamp 邮票
+323. star 星
+324. station 火车站
+325. stay 停留
+326. step 脚步
+327. stick 木棒
+328. stop 停止
+329. story 故事
+330. street 街道
+331. student 学生
+332. study 学习
+333. subject 科目
+334. sugar 糖
+335. summer 夏天
+336. sun 太阳
+337. supper 晚餐
+338. surprise 惊奇
+339. sweet 糖果
+340. swim 游泳
+341. table 桌子
+342. talk 谈话
+343. tea 茶叶
+344. teacher 教师
+345. team 队伍
+346. telephone 电话
+347. temperature 温度
+348. term 学期
+349. thank 谢谢
+350. thing 事情
+351. ticket 票
+352. time 时间
+353. today 今天
+354. tomorrow 明天
+355. tooth 牙齿
+356. top 顶部
+357. town 城镇
+358. train 火车
+359. travel 旅行
+360. tree 树
+361. trouble 烦恼
+362. TV 电视
+363. uncle 叔父
+364. vegetable 蔬菜
+365. village 村庄
+366. visitor 村庄
+367. visitor 参观者
+368. walk 走
+369. wall 墙
+370. watch 手表
+371. water 水
+372. way 道路
+373. weather 天气
+374. week 周
+375. welcome 欢迎
+376. west 西方
+377. while 白色
+378. wife 妻子
+379. wind 风
+380. window 窗
+381. winter 冬天
+382. wish 愿望
+383. woman 女人
+384. word 单词
+385. worker 工人
+386. world 世界
+387. year 年
+388. yellow 黄色
+389. yesterday 昨天
+390. zero 零
+391. zoo 动物园
+392. able 能够
+393. above 上面的
+394. afraid 害怕
+395. alone 单独的
+396. all 全部
+397. angry 生气的
+398. another 再一
+399. any 一些
+400. bad 坏的
+401. beautiful 美丽的
+402. big 大的
+403. black 黑色的
+404. blue 蓝色
+405. both 两 双
+406. bright 明亮的
+407. brown 棕色的
+408. busy 忙碌的
+409. careful 小心的
+410. cheap 便宜
+411. clean 干净的
+412. clear 清晰的
+413. close 近的
+414. cloudy 多云的
+415. cold 冷的
+416. cool 凉快
+417. dangerous 危险的
+418. dark 黑暗
+419. dead 死的
+420. dear 亲爱的
+421. deep 深的
+422. delicious 美味的
+423. different 不同的
+424. difficult 困难的
+425. dirty 脏的
+426. dry 干的
+427. early 早的
+428. east 东方的
+429. easy 容易
+430. either 两者中任何一个
+431. empty 空的
+432. enough 足够的
+433. every 每一个
+434. expensive 昂贵的
+435. famous 著名的
+436. far 远的
+437. fast 快的
+438. favourite 喜爱的
+439. few 不多的
+440. fine 晴朗的
+441. first 第一
+442. foreign 外国
+443. free 空闲
+444. friendly 友好的
+445. front 前面的
+446. full 满的
+447. glad 高兴的
+448. good 好
+449. great 伟大的
+450. green 绿色
+451. half 一半
+452. happy 高兴的
+453. hard 困难的
+454. healthy 健康的
+455. heavy 重的
+456. high 高的
+457. hot 热
+458. hungry 饥饿的
+459. ill 生病的
+460. important 重要的
+461. interested 感兴趣的
+462. interesting 有趣的
+463. kind 友好的
+464. large 巨大的
+465. last 最后的
+466. late 迟的
+467. lazy 懒惰的
+468. left 左边的
+469. light 光线
+470. little 小的
+471. long 长的
+472. loud 大声的
+473. low 底的
+474. lucky 幸运的
+475. many 许多的
+476. modern 现代的
+477. much 许多的
+478. near 近的
+479. neither 两者都不
+480. new 新的
+481. happy 高兴的
+482. hard 困难的
+483. healthy 健康的
+484. next 最近的
+485. nice 美好的
+486. no 没有
+487. north 北方的
+488. old 旧的
+489. only 唯一的
+490. open 开着的
+491. orange 橙色的
+492. other 别的
+493. polite 有礼貌的
+494. poor 贫困的
+495. popular 流行的
+496. possible 可能的
+497. quick 快的
+498. quiet 安静的
+499. ready 准备好的
+500. red 红色的
